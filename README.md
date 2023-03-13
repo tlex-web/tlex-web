@@ -1,5 +1,5 @@
 <h1 align="center">Hello, my name is Tim</h1>
-<h3 align="center">Fullstack devloper and IT Consultant</h3>
+<h3 align="center">Fullstack developer and IT Consultant</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tlex-web&label=Profile%20views&color=0e75b6&style=flat" alt="tlex-web" /> </p>
 
