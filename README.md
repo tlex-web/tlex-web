@@ -19,5 +19,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tlex-web&show_icons=true&theme=dark&locale=en" alt="tlex-web" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlex-web&" alt="tlex-web" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tlex-web" /></p>
 
