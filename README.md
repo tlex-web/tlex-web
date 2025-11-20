@@ -1,145 +1,169 @@
-﻿<h1 align="center">👋 Hello, I'm Tim</h1>
-<h3 align="center">Fullstack Developer & IT Consultant</h3>
-<p align="center">
-  <em>Passionate about building scalable web applications and solving complex problems</em>
-</p>
+﻿<div align="center">
+  
+# 👋 Hello, I'm Tim
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tlex-web&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+### Fullstack Developer & IT Consultant
+
+<em>Building next-generation web applications and powerful CLI tools</em>
+
+<br>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=tlex-web&label=Profile%20views&color=0e75b6&style=for-the-badge)](https://github.com/tlex-web)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tim.lui.973)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/old2shatterhand)
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 💼 Working as a **Fullstack Developer** and **IT Consultant**
-- 🔭 I specialize in building modern web applications with **Node.js**, **TypeScript**, and **Docker**
-- 🌱 Currently exploring **Kubernetes** orchestration and cloud-native architectures
-- 💡 I enjoy tackling challenges on **HackerRank** and contributing to **Stack Overflow**
-- 🎯 Always learning and staying up-to-date with the latest technologies
-- 💬 Ask me about **JavaScript/TypeScript**, **Backend Development**, **DevOps**, or **Database Design**
-- 📫 How to reach me: Connect with me on LinkedIn!
+```typescript
+const tim = {
+    role: "Fullstack Developer & IT Consultant",
+    currentFocus: ["Web Applications", "CLI Tools", "Data Analysis"],
+    technologies: {
+        webDev: ["TypeScript", "Next.js", "React", "Node.js"],
+        systems: ["Rust"],
+        dataScience: ["Python"],
+        devOps: ["Docker", "Kubernetes"]
+    },
+    currentlyLearning: "Advanced Rust patterns & Next.js 15",
+    askMeAbout: ["TypeScript", "Next.js", "Rust", "System Design", "DevOps"]
+};
+```
+
+- 🌐 **Web Development**: Building scalable, modern web applications with **TypeScript** and **Next.js**
+- 🦀 **Systems Programming**: Crafting efficient CLI tools and utilities with **Rust**
+- 📊 **Data Analysis**: Analyzing and visualizing data using **Python**
+- 🐳 **DevOps**: Containerizing applications with **Docker** and orchestrating with **Kubernetes**
+- 🎯 Passionate about clean code, performance optimization, and developer experience
+- 📫 **Reach me**: [LinkedIn](https://linkedin.com/in/tim.lui.973)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=tlex-web&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-  </a>
-</p>
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=tlex-web&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/tim.lui.973" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/old2shatterhand" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/old2shatterhand" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tim.lui.973)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/old2shatterhand)
+
+</div>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  </a>
-</p>
+<div align="center">
 
-### Backend & Frameworks
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="Electron" width="40" height="40"/>
-  </a>
-</p>
+### 🌐 Web Development
 
-### Databases
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### DevOps & Tools
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-  </a>
-  <a href="https://www.nginx.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="Mocha" width="40" height="40"/>
-  </a>
-</p>
+### 🦀 Systems & CLI Tools
 
-### Design
-<p align="left">
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
-  </a>
-</p>
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+### 📊 Data Analysis & Scripting
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+### 🗄️ Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### 🚀 DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🎨 Design
+
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
 
 ---
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tlex-web&show_icons=true&theme=tokyonight&locale=en&hide_border=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tlex-web&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tlex-web&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&text_color=FFFFFF" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tlex-web&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tlex-web&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlex-web&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tlex-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Coding Activity" />
+
+</div>
 
 ---
 
-<p align="center">
-  <em>⭐️ From <a href="https://github.com/tlex-web">tlex-web</a> - Feel free to reach out for collaborations or just a chat!</em>
-</p>
+## 🎯 Current Focus
+
+<div align="center">
+
+```rust
+// Building the future, one line at a time
+fn main() {
+    let focus_areas = vec![
+        "🌐 Scalable web applications with Next.js & TypeScript",
+        "🦀 High-performance CLI tools in Rust", 
+        "📊 Data-driven insights with Python",
+        "🚀 Cloud-native architecture with Kubernetes"
+    ];
+    
+    for area in focus_areas {
+        println!("{}", area);
+    }
+}
+```
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+<br>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&multiline=false&width=600&lines=Building+TypeScript+%26+Next.js+Applications;Crafting+Rust+CLI+Tools;Analyzing+Data+with+Python;Always+Learning%2C+Always+Growing)
+
+<br>
+
+**⭐️ From [tlex-web](https://github.com/tlex-web) • Feel free to reach out for collaborations!**
+
+</div>
 
