@@ -46,7 +46,7 @@ const tim = {
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=tlex-web&theme=dracula&no-frame=true&row=1&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=tlex-web&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=10&margin-h=10)
 
 </div>
 
@@ -123,7 +123,7 @@ const tim = {
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tlex-web&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=tlex-web&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF" alt="Top Languages" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=tlex-web&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&layout=compact" alt="Coding Activity" />
+<img width="49%" src="https://github-contributor-stats.vercel.app/api?username=tlex-web&limit=5&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&combine_all_yearly_contributions=true" alt="Top Contributed Repos" />
 
 </div>
 
