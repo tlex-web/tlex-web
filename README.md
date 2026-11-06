@@ -22,7 +22,7 @@ I'm a fullstack developer and IT advisor based in Switzerland, currently complet
 
 | Project | Description | Built with |
 | :-- | :-- | :-- |
-| **[Portfolio](https://github.com/tlex-web/portfolio-ap)**<br><sub>[Live site ↗](https://tlui.de)</sub> | Landscape photography and project portfolio with a WebGL mountain hero, 3D photo carousel and shader-based image transitions. | Next.js 16, TypeScript, Three.js, Framer Motion |
+| **[Portfolio](https://github.com/tlex-web/portfolio-app)**<br><sub>[Live site ↗](https://tlui.de)</sub> | Landscape photography and project portfolio with a WebGL mountain hero, 3D photo carousel and shader-based image transitions. | Next.js 16, TypeScript, Three.js, Framer Motion |
 | **[box](https://github.com/tlex-web/box)** | One portable Rust binary bundling 23 command-line tools for PowerShell 7, with `--json` output for scripting, clipboard piping, shell completions and dry-run-first destructive commands. | Rust, clap |
 | **[TermPulse](https://github.com/tlex-web/term-pulse-webpage)**<br><sub>[Live site ↗](https://term-pulse-webpage.vercel.app)</sub> | Weekly planner that teaches university students to estimate time accurately by comparing planned against actual task durations. | Next.js, React, Tailwind CSS |
 
